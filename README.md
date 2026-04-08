@@ -15,6 +15,13 @@
 </p>
 
 ---
+## 🎮 Gameplay Preview
+
+<p align="center">
+  <img src="SlashMania.gif" width="700"/>
+</p>
+
+▶️ [Watch Full Gameplay Video](https://youtu.be/zy-_UYkjLaI)
 
 ## 🍉 GAME OVERVIEW
 
